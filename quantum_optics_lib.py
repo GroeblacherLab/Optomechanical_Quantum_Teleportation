@@ -29,7 +29,7 @@ Common library used for numerical simulations in:
 
 Optomechanical quantum teleportation
 Niccol`o Fiaschi,1,∗ Bas Hensen,1,∗ Andreas Wallucks,1 Rodrigo
-Benevides,1,2 Jie Li,1,3 Thiago P. Mayer Alegre,2 and Simon Gr¨oblacher1,
+Benevides,1,2 Jie Li,1,3 Thiago P. Mayer Alegre,2 and Simon Gröblacher1,
 
 1 Kavli Institute of Nanoscience, Department of Quantum Nanoscience,
 Delft University of Technology, 2628CJ Delft, The Netherlands
